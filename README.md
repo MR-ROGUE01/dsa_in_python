@@ -1,4 +1,4 @@
-DSA in Python
+Search Insert Position.pyDSA in Python
 
 This repository contains my practice and learning of Data Structures and Algorithms using Python.
 
